@@ -1,0 +1,8 @@
+C:\ASP.NET\Dul\bin\Debug\netstandard2.0\Dul.deps.json
+C:\ASP.NET\Dul\bin\Debug\netstandard2.0\Dul.dll
+C:\ASP.NET\Dul\bin\Debug\netstandard2.0\Dul.pdb
+C:\ASP.NET\Dul\obj\Debug\netstandard2.0\Dul.csprojAssemblyReference.cache
+C:\ASP.NET\Dul\obj\Debug\netstandard2.0\Dul.AssemblyInfoInputs.cache
+C:\ASP.NET\Dul\obj\Debug\netstandard2.0\Dul.AssemblyInfo.cs
+C:\ASP.NET\Dul\obj\Debug\netstandard2.0\Dul.dll
+C:\ASP.NET\Dul\obj\Debug\netstandard2.0\Dul.pdb

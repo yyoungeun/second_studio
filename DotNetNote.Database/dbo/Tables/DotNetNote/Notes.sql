@@ -1,0 +1,26 @@
+﻿CREATE TABLE [dbo].[Notes]
+(
+	[Id] INT Identity(1,1) NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(25) NOT NULL, 
+    [Email] NVARCHAR(100) NULL, 
+    [Title] NVARCHAR(150) NOT NULL, 
+    [PostDate] DATETIME NOT NULL DEFAULT getdate(), 
+    [PostIp] NVARCHAR(15) NULL, 
+    [Content] NTEXT NOT NULL, 
+    [Password] NVARCHAR(20) NULL, 
+    [ReadCount] INT NOT NULL DEFAULT 0, 
+    [Encoding] NVARCHAR(10) NOT NULL, 
+    [Homepage] NVARCHAR(100) NULL, 
+    [ModifyDate] DATETIME NULL, 
+    [ModifyIp] NVARCHAR(15) NULL, 
+    [FileName] NVARCHAR(255) NULL, 
+    [FileSize] INT NULL DEFAULT 0, 
+    [DownCount] INT NULL DEFAULT 0, 
+    [Ref] INT NOT NULL, 
+    [Step] INT NULL DEFAULT 0, 
+    [RefOrder] INT NULL DEFAULT 0, 
+    [AnswerNum] INT NULL DEFAULT 0, 
+    [ParentNum] INT NULL DEFAULT 0, 
+    [CommentCount] INT NULL DEFAULT 0, 
+    [Category] NVARCHAR(10) NULL
+)

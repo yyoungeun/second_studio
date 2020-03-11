@@ -1,0 +1,10 @@
+C:\ASP.NET\DotNetNote.Database\bin\Debug\DotNetNote.Database.dacpac
+C:\ASP.NET\DotNetNote.Database\bin\Debug\DotNetNote.Database.dll
+C:\ASP.NET\DotNetNote.Database\bin\Debug\DotNetNote.Database.pdb
+C:\ASP.NET\DotNetNote.Database\obj\Debug\DotNetNote.Database.sqlprojAssemblyReference.cache
+C:\ASP.NET\DotNetNote.Database\obj\Debug\DotNetNote.Database.dll
+C:\ASP.NET\DotNetNote.Database\obj\Debug\DotNetNote.Database.pdb
+C:\ASP.NET\DotNetNote.Database\obj\Debug\Model.xml
+C:\ASP.NET\DotNetNote.Database\obj\Debug\refactor.xml
+C:\ASP.NET\DotNetNote.Database\obj\Debug\postdeploy.sql
+C:\ASP.NET\DotNetNote.Database\obj\Debug\predeploy.sql
